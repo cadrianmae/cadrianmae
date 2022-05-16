@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">Hi there! 👋</h3>
+<h3 align="center">Welcome to Adrian Capacite's profile!</h3>
+<!-- Typing SVG by DenverCoder1 - https://readme-typing-svg.herokuapp.com/ -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=D8338B&center=true&vCenter=true&width=500&lines=BSc+Computer+Science+student+at+TU+Dublin;Learning+Web+Development+stack"></a>
+</p>
+
+<hr>
 
 <!--
 **AdrianCapacite/AdrianCapacite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
