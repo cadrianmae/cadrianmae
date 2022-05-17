@@ -9,7 +9,7 @@
 
 <h3 align="center">Stats</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AdrianCapacite" alt="Adrian's GitHub stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AdrianCapacite&theme=synthwave&show_icons=true" alt="Adrian's GitHub stats"></a>
 
 <!--
 **AdrianCapacite/AdrianCapacite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
