@@ -12,6 +12,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=AdrianCapacite&theme=synthwave&show_icons=true&border_color=444c56" alt="Adrian's GitHub stats" width="423px"></a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianCapacite&theme=synthwave&show_icons=true&border_color=444c56&layout=compact" alt="Adrian's GitHub stats" width="423px"></a>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdrianCapacite&theme=synthwave&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=426&border=3E3E3E)](https://git.io/streak-stats)
 </div>
 <!--
 **AdrianCapacite/AdrianCapacite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
